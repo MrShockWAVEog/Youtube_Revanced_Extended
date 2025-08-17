@@ -639,7 +639,7 @@ version=v${3}
 versionCode=${NEXT_VER_CODE}
 author=MrShockWAVEog
 description=${4}
-banner=https://raw.githubusercontent.com/MrShockWAVEog/YouTube-ReVanced-Extended/refs/heads/main/revanced-headline-vertical-dark.png" >"${6}/module.prop"
+banner=https://raw.githubusercontent.com/MrShockWAVEog/Youtube_Revanced_Extended/refs/heads/main/revanced-headline-vertical-dark.png" >"${6}/module.prop"
 
 	if [ "$ENABLE_MAGISK_UPDATE" = true ]; then echo "updateJson=${5}" >>"${6}/module.prop"; fi
 }
