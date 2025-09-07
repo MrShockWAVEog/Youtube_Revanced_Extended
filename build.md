@@ -13,4 +13,4 @@ Patches: anddea/patches-3.12.0.rvp
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.12.0)
 
 Patches: anddea/patches-3.12.0.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.12.0)
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.12.0)  
